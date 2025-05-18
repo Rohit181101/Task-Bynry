@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Jane Doe",
+    "description": "Frontend Developer",
+    "location": "Minneapolis",
+    "image": "https://randomuser.me/api/portraits/women/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "John Smith",
+    "description": "Full Stack Developer",
+    "location": "San Francisco",
+    "image": "https://randomuser.me/api/portraits/men/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Alice Johnson",
+    "description": "UI/UX Designer",
+    "location": "New York",
+    "image": "https://randomuser.me/api/portraits/women/3.jpg"
+  }
+]
